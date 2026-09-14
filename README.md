@@ -13,7 +13,7 @@ The analysis is designed for an E-commerce Operations and Customer Experience te
 
 An interactive Looker Studio dashboard was built to visualize these findings.
 
-![Dashboard image](https://github.com/user-attachments/assets/aebdf77a-47c8-4aef-b965-f530df16cf32)
+![Dashboard image](https://github.com/user-attachments/assets/2d5bbc19-c4c4-4a93-819d-b53973a8a757)
 
 [View the live dashboard](https://datastudio.google.com/reporting/e288c40a-5001-4334-a77e-89ed9303d5a0)
 
