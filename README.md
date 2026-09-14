@@ -9,10 +9,20 @@ The analysis is designed for an E-commerce Operations and Customer Experience te
 1. How much do repeat customers contribute to sales?
 2. Are late deliveries associated with lower customer review scores?
 
+## Dashboard
+
+An interactive Looker Studio dashboard was built to visualize these findings.
+
+![Dashboard image](<img width="936" height="750" alt="Olist_Analysis_Dashboard" src="https://github.com/user-attachments/assets/b9419fe5-b5eb-4030-a6e5-a757bccef1f5" />
+)
+
+[View the live dashboard](https://datastudio.google.com/reporting/e288c40a-5001-4334-a77e-89ed9303d5a0)
+
 ## Tools
 
 - BigQuery
 - SQL
+- Looker Studio
 
 ## Data Scope
 
